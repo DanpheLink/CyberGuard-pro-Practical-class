@@ -8,6 +8,7 @@ OR
 If you are using Linux system or have git installed in your windows system, you can directly access the file by: 
 
 git clone https://github.com/DanpheLink/CyberGuard-pro-Practical-class.git
+
 cd CyberGuard-pro-Practical-class
 
 ## After the you have successfully downloaded the file, run the following command
